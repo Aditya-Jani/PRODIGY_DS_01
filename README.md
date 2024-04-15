@@ -41,4 +41,4 @@ Clone this GitHub repository to your local machine.
 Ensure you have Python and necessary libraries installed (e.g., pandas, matplotlib).
 Run the Jupyter Notebook file "car_sales.ipynb" to generate the visualizations.
 Contributors
-Smit Patel
+Aditya Jani
